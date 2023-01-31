@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
   participant browser
   participant server
@@ -33,5 +34,6 @@ sequenceDiagram
   
   Note right of browser: Browser execute the callback and return the note
   
+  ```
   
   
